@@ -37,5 +37,12 @@ body {
   color: #008ed6;
   background: #fff;
   padding: 5px;
-  border-radius: 1px;
+  border-radius: 5px;
+}
+
+#explore-section .fas, #share-section .fas {
+  background: #333;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
 }
